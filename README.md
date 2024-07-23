@@ -1,2 +1,3 @@
 # LPC1768-Filter
-Basic low-pass filter for audio using weights, written in C.
+
+Basic audio low-pass filter for mbed LPC1768 using weights, written in C.
