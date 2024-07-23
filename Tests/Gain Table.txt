@@ -1,0 +1,12 @@
+Initial Filter Testing on Oscilloscope:
+
+Frequency - Vout/Vin
+
+20Hz - 1.17
+200Hz - 1.19
+1000Hz - 1.17
+2000Hz - 1.13
+3125Hz(cutoff) - 0.73
+3500Hz - 0.54
+3800Hz - 0.37
+4000Hz - 0.3
